@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/nour-mahmoud-71b66a30a//" title="LinkedIn Profile"><img width="22" src="https://i.postimg.cc/ZKGN2YKy/download.jpg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/nour_mahmoud693?igsh=MWwwczlnamtpYXZjag==" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/nour_mahmoud693?igsh=MWwwczlnamtpYXZjag==" title="Instagram Profile"><img width="22" src="https://i.postimg.cc/qRqggWMG/download-(1).jpg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -25,7 +25,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/Nourhan733" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto:nwr641140@gmail.com">nwr641140@gmail.com</a>
 </p>
 
 <hr>
