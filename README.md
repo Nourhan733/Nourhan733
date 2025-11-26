@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/nour-mahmoud-71b66a30a//" title="LinkedIn Profile"><img width="22" src="pictures/download.jfif"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/nour-mahmoud-71b66a30a//" title="LinkedIn Profile"><img width="22" src="https://i.postimg.cc/ZKGN2YKy/download.jpg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/nour_mahmoud693?igsh=MWwwczlnamtpYXZjag==" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
