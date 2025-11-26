@@ -21,7 +21,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently improving my skills in backend & frontend technologies
   <br>
   💬 Ask me anything about from <a href="https://github.com/Nourhan733" title="Issues">Here</a>
   <br>
