@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nourhan+Mahmoud....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Nourhan+Mahmoud....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -23,7 +23,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
-  💬 Ask me anything about from <a href="" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Nourhan733" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
